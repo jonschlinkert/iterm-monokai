@@ -1,5 +1,3 @@
-# iterm-monokai
-
 <h1 align="center">iTerm Monokai - Theme</h1>
 
 <p align="center">
