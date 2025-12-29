@@ -1,6 +1,17 @@
-# iterm-monokai 
+# iterm-monokai
 
-> Customized monokai theme for iterm. There are others, this one is based on [monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended).
+<h1 align="center">iTerm Monokai - Theme</h1>
+
+<p align="center">
+  <b>Enhanced monokai theme for <a href="https://iterm2.com/">iTerm2</a>.</b>
+</p>
+
+<p align="center">
+  <img src="./example.gif" alt="Enquirer Survey Prompt" width="750"><br>
+  <sub><a href="https://github.com/enquirer/enquirer">Enquirer</a> Survey Prompt, using iTerm2 Monokai Theme</sub>
+</p>
+
+> Customized monokai theme for iTerm2. There are others, this one is based on [monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended).
 
 ## Install
 
